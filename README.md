@@ -50,7 +50,7 @@ generative-ai-apps/
 
 │
 
-├── chatgpt-like-web-app/          # Proyecto 2: Chatbot tipo ChatGPT (próximo)
+├── chatgpt-like-web-app/          # Proyecto 2: Chatbot tipo ChatGPT
 
 │   ├── src/
 
@@ -76,7 +76,7 @@ generative-ai-apps/
 
 | **Generative AI Vision — Image Captioning App** | Genera subtítulos automáticos para imágenes usando el modelo BLIP. | Python, Gradio, Docker, Hugging Face |
 
-| **ChatGPT-like Web App** *(en desarrollo)* | Chatbot web con LLMs de código abierto y Flask. | Python, Flask, Hugging Face |
+| **ChatGPT-like Web App** | Chatbot web con LLMs de código abierto y Flask. | Python, Flask, Hugging Face |
 
 | *(Próximos proyectos)* | Asistente de voz, traductor Babel Fish, RAG con datos privados, etc. | IA generativa avanzada |
 
@@ -85,6 +85,10 @@ generative-ai-apps/
 ## 👩‍💻 Autora
 
 Proyecto desarrollado por Rebeca Soto como parte de su portafolio profesional de Ingeniería de IA generativa.
+
+🔗 [linkedin.com/in/rebeca-soto-ai](https://linkedin.com/in/rebeca-soto-ai)  
+
+🔗 [github.com/rebecasp80](https://github.com/rebecasp80)
 
 ---
 

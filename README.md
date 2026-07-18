@@ -19,7 +19,7 @@ Cada proyecto incluye una **interfaz web moderna**, integración con **Groq** pa
 - 🌐 **Flask** para servidores web ligeros
 
 - 🎨 **HTML/CSS/JS** para interfaces personalizadas
-- 
+ 
 - 🐳 **Docker** para contenedorización
 
 - ☁️ **IBM Cloud Code Engine** para despliegue
